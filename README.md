@@ -1,3 +1,8 @@
+*** README.md is generated with `jupyter nbconvert --execute --to markdown README.ipynb` *** 
+
+requires python >=3.10
+
+
 ```python
 %load_ext autoreload
 %autoreload 2
