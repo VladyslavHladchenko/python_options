@@ -2,6 +2,8 @@
 
 requires python >=3.10
 
+Wrapper for argparse to use set of arguments as class with type and name checking
+
 
 ```python
 %load_ext autoreload
